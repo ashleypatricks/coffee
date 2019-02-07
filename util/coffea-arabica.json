@@ -1,0 +1,369 @@
+[
+  {
+    "name": "Batian",
+    "bean_size": "VERY_LARGE",
+    "quality_potential": "VERY_GOOD",
+    "yield": "HIGH",
+    "disease_resistancy": [
+      {
+        "leaf_rust": "TOLERANT"
+      },
+      {
+        "coffee_berry_disease": "RESISTANT"
+      },
+      {
+        "nematodes": "SUSCEPTIBLE"
+      }
+    ],
+    "producing_countries": [
+      "Kenya"
+    ]
+  },
+  {
+    "name": "Bourbon",
+    "bean_size": "AVERAGE",
+    "quality_potential": "VERY_GOOD",
+    "yield": "MEDIUM",
+    "disease_resistancy": [
+      {
+        "leaf_rust": "SUSCEPTIBLE"
+      },
+      {
+        "coffee_berry_disease": "SUSCEPTIBLE"
+      },
+      {
+        "nematodes": "SUSCEPTIBLE"
+      }
+    ],
+    "producing_countries": [
+      "Burundi",
+      "Colombia",
+      "Costa Rica",
+      "Ethiopia",
+      "Honduras",
+      "Indonesia",
+      "Mexico",
+      "Panama",
+      "Papua New Guinea",
+      "Rwanda",
+      "Tanzania",
+      "Thailand",
+      "Vietnam"
+    ]
+  },
+  {
+    "name": "Catuai",
+    "bean_size": "AVERAGE",
+    "quality_potential": "GOOD",
+    "yield": "GOOD",
+    "disease_resistancy": [
+      {
+        "leaf_rust": "SUSCEPTIBLE"
+      },
+      {
+        "coffee_berry_disease": "SUSCEPTIBLE"
+      },
+      {
+        "nematodes": "SUSCEPTIBLE"
+      }
+    ],
+    "producing_countries": [
+      "Brazil",
+      "Costa Rica",
+      "Honduras",
+      "Mexico",
+      "Panama",
+      "Peru"
+    ]
+  },
+  {
+    "name": "Caturra",
+    "bean_size": "AVERAGE",
+    "quality_potential": "GOOD",
+    "yield": "GOOD",
+    "disease_resistancy": [
+      {
+        "leaf_rust": "SUSCEPTIBLE"
+      },
+      {
+        "coffee_berry_disease": "SUSCEPTIBLE"
+      },
+      {
+        "nematodes": "SUSCEPTIBLE"
+      }
+    ],
+    "producing_countries": [
+      "Brazil",
+      "Colombia",
+      "Costa Rica",
+      "Honduras",
+      "Mexico",
+      "Panama",
+      "Peru"
+    ]
+  },
+  {
+    "name": "Gesha",
+    "bean_size": "AVERAGE",
+    "quality_potential": "EXCEPTIONAL",
+    "yield": "MEDIUM",
+    "disease_resistancy": [
+      {
+        "leaf_rust": "TOLERANT"
+      },
+      {
+        "coffee_berry_disease": "SUSCEPTIBLE"
+      },
+      {
+        "nematodes": "SUSCEPTIBLE"
+      }
+    ],
+    "producing_countries": [
+      "Colombia",
+      "Costa Rica",
+      "Honduras",
+      "Ethiopia",
+      "Panama"
+    ]
+  },
+  {
+    "name": "Java",
+    "bean_size": "LARGE",
+    "quality_potential": "VERY_GOOD",
+    "yield": "MEDIUM",
+    "disease_resistancy": [
+      {
+        "leaf_rust": "TOLERANT"
+      },
+      {
+        "coffee_berry_disease": "TOLERANT"
+      },
+      {
+        "nematodes": "SUSCEPTIBLE"
+      }
+    ],
+    "producing_countries": [
+      "Costa Rica",
+      "Indonesia",
+      "Panama"
+    ]
+  },
+  {
+    "name": "K7",
+    "bean_size": "LARGE",
+    "quality_potential": "GOOD",
+    "yield": "HIGH",
+    "disease_resistancy": [
+      {
+        "leaf_rust": "TOLERANT"
+      },
+      {
+        "coffee_berry_disease": "TOLERANT"
+      },
+      {
+        "nematodes": "SUSCEPTIBLE"
+      }
+    ],
+    "producing_countries": [
+      "Kenya"
+    ]
+  },
+  {
+    "name": "Maragogipe",
+    "bean_size": "VERY_LARGE",
+    "quality_potential": "VERY_GOOD",
+    "yield": "LOW",
+    "disease_resistancy": [
+      {
+        "leaf_rust": "SUSCEPTIBLE"
+      },
+      {
+        "coffee_berry_disease": "SUSCEPTIBLE"
+      },
+      {
+        "nematodes": "SUSCEPTIBLE"
+      }
+    ],
+    "producing_countries": [
+      "Colombia",
+      "Mexico"
+    ]
+  },
+  {
+    "name": "Mundo Novo",
+    "bean_size": "AVERAGE",
+    "quality_potential": "GOOD",
+    "yield": "HIGH",
+    "disease_resistancy": [
+      {
+        "leaf_rust": "SUSCEPTIBLE"
+      },
+      {
+        "coffee_berry_disease": "SUSCEPTIBLE"
+      },
+      {
+        "nematodes": "SUSCEPTIBLE"
+      }
+    ],
+    "producing_countries": [
+      "Brazil",
+      "Mexico"
+    ]
+  },
+  {
+    "name": "Pacamara",
+    "bean_size": "VERY_LARGE",
+    "quality_potential": "VERY_GOOD",
+    "yield": "GOOD",
+    "disease_resistancy": [
+      {
+        "leaf_rust": "SUSCEPTIBLE"
+      },
+      {
+        "coffee_berry_disease": "SUSCEPTIBLE"
+      },
+      {
+        "nematodes": "SUSCEPTIBLE"
+      }
+    ],
+    "producing_countries": [
+      "El Salvador",
+      "Nicaragua"
+    ]
+  },
+  {
+    "name": "Pacas",
+    "bean_size": "AVERAGE",
+    "quality_potential": "GOOD",
+    "yield": "GOOD",
+    "disease_resistancy": [
+      {
+        "leaf_rust": "SUSCEPTIBLE"
+      },
+      {
+        "coffee_berry_disease": "SUSCEPTIBLE"
+      },
+      {
+        "nematodes": "SUSCEPTIBLE"
+      }
+    ],
+    "producing_countries": [
+      "Honduras"
+    ]
+  },
+  {
+    "name": "Ruiru 11",
+    "bean_size": "LARGE",
+    "quality_potential": "GOOD",
+    "yield": "VERY_HIGH",
+    "disease_resistancy": [
+      {
+        "leaf_rust": "TOLERANT"
+      },
+      {
+        "coffee_berry_disease": "RESISTANT"
+      },
+      {
+        "nematodes": "SUSCEPTIBLE"
+      }
+    ],
+    "producing_countries": [
+      "Kenya"
+    ]
+  },
+  {
+    "name": "SL28",
+    "bean_size": "LARGE",
+    "quality_potential": "EXCEPTIONAL",
+    "yield": "VERY_HIGH",
+    "disease_resistancy": [
+      {
+        "leaf_rust": "SUSCEPTIBLE"
+      },
+      {
+        "coffee_berry_disease": "SUSCEPTIBLE"
+      },
+      {
+        "nematodes": "SUSCEPTIBLE"
+      }
+    ],
+    "producing_countries": [
+      "Burundi",
+      "Colombia",
+      "Kenya"
+    ]
+  },
+  {
+    "name": "SL34",
+    "bean_size": "LARGE",
+    "quality_potential": "EXCEPTIONAL",
+    "yield": "HIGH",
+    "disease_resistancy": [
+      {
+        "leaf_rust": "SUSCEPTIBLE"
+      },
+      {
+        "coffee_berry_disease": "SUSCEPTIBLE"
+      },
+      {
+        "nematodes": "SUSCEPTIBLE"
+      }
+    ],
+    "producing_countries": [
+      "Colombia",
+      "Kenya"
+    ]
+  },
+  {
+    "name": "Typica",
+    "bean_size": "LARGE",
+    "quality_potential": "VERY_GOOD",
+    "yield": "LOW",
+    "disease_resistancy": [
+      {
+        "leaf_rust": "SUSCEPTIBLE"
+      },
+      {
+        "coffee_berry_disease": "SUSCEPTIBLE"
+      },
+      {
+        "nematodes": "SUSCEPTIBLE"
+      }
+    ],
+    "producing_countries": [
+      "Brazil",
+      "Colombia",
+      "Costa Rica",
+      "Ethiopia",
+      "Honduras",
+      "Indonesia",
+      "Mexico",
+      "Panama",
+      "Papua New Guinea",
+      "Peru",
+      "Rwanda",
+      "Tanzania",
+      "Thailand"
+    ]
+  },
+  {
+    "name": "Villa Sarchi",
+    "bean_size": "BELOW_AVERAGE",
+    "quality_potential": "GOOD",
+    "yield": "GOOD",
+    "disease_resistancy": [
+      {
+        "leaf_rust": "SUSCEPTIBLE"
+      },
+      {
+        "coffee_berry_disease": "SUSCEPTIBLE"
+      },
+      {
+        "nematodes": "SUSCEPTIBLE"
+      }
+    ],
+    "producing_countries": [
+      "Costa Rica"
+    ]
+  }
+]
