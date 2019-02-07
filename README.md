@@ -4,6 +4,10 @@ This app is an API which can be used to discover interesting facts about coffee 
 
 ## Instructions
 
+First of all... please run: 
+
+>> npm install
+
 This app runs off of a MongoDB Database. Whether you have Mongo running locally or in production - you may want to fill up the database with some coffee varieties in order ensure that the API routes are able to fetch some data.
 
 This app also assumes that you have a running MongoDB server either on your local machine or in a production environment.
